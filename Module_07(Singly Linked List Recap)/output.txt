@@ -1,0 +1,6 @@
+Printing Linked list: 
+30 20 40 10 50 
+Printing ascending Order Linked List: 
+10 20 30 40 50 
+Printing descendng Order Linked List: 
+50 40 30 20 10 
